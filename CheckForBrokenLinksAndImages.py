@@ -37,15 +37,7 @@ while i < length:
     i+=1
 
 
-#Idea to expand upon script
-#read from list:
-# Page1,https://www.bankofireland.com
-# Page2,https://www.bankofireland.com/about
 
-#output to csv - Page1.csv
-#In Page1.csv you would have: the href,the response code
-
-#add image support
 
 
 
